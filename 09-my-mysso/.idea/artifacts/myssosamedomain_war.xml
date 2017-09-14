@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myssosamedomain:war">
+    <output-path>$PROJECT_DIR$/myssosamedomain/target</output-path>
+    <root id="archive" name="myssosamedomain-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="myssosamedomain:war exploded" />
+    </root>
+  </artifact>
+</component>

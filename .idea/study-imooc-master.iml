@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="23-my-hibernatemtm:hibernatemtm:src:main:resources:hibernate.cfg.xml" />
+          <unit-entry name="24-my-hibernateanno:hibernateaa:src:main:resources:hibernate.cfg.xml" />
+          <unit-entry name="24-my-hibernateanno:hibernateca:src:main:resources:hibernate.cfg.xml" />
+          <unit-entry name="24-my-hibernateanno:hibernatera:src:main:resources:hibernate.cfg.xml" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/23-my-hibernatemtm/hibernatemtm/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/24-my-hibernateanno/hibernateaa/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/24-my-hibernateanno/hibernateca/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/24-my-hibernateanno/hibernatera/src/main/resources/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/12-my-mygradle/todo/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/12-my-mygradle/todo/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/28-teach-wxdev/Weixin/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/28-teach-wxdev/Weixin/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/02-my-myspringtransactions/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/02-my-myspringtransactions/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/18-teach-quartz/springquartz/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/18-teach-quartz/springquartz/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/30-my-ssh/sshemployee/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/30-my-ssh/sshemployee/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/12-my-mygradle/todo-action/todo-action-web/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/12-my-mygradle/todo-action/todo-action-web/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/02-teach-springtransactions/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/02-teach-springtransactions/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/12-my-mygradle/todo-app/todo-app-web/src/main/resources/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/12-my-mygradle/todo-app/todo-app-web/src/main/resources" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/32-my-seckill/seckill/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/32-my-seckill/seckill/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/06-teach-springmvcbind/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/06-teach-springmvcbind/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/03-teach-springmvcstudy/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/03-teach-springmvcstudy/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/30-my-ssh/ssh/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/30-my-ssh/ssh/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

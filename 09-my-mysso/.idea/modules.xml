@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/09-my-mysso.iml" filepath="$PROJECT_DIR$/.idea/09-my-mysso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myssosamedomain/myssosamedomain.iml" filepath="$PROJECT_DIR$/myssosamedomain/myssosamedomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myssosamefather/myssosamefather.iml" filepath="$PROJECT_DIR$/myssosamefather/myssosamefather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myssocrossdomain/myssosamefather (1).iml" filepath="$PROJECT_DIR$/myssocrossdomain/myssosamefather (1).iml" />
+    </modules>
+  </component>
+</project>
